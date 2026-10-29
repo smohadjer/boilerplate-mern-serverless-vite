@@ -7,7 +7,7 @@ export default function Nav() {
                 <li><NavLink style={
                     ({isActive}) => { return isActive ? { color: "red" } : {} }
                 } to="/">Home</NavLink></li>
-                {/* remove attribute end if you want that item to display with active sytle
+                {/* Remove the end attribute to keep this item active
                 when any of its children is active */}
                 <li><NavLink end to="/about">About</NavLink>
                     <ul>
