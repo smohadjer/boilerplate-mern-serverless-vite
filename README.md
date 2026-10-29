@@ -1,5 +1,9 @@
 # MERN serverless Vite boilerplate
 
+[Express version on Render](https://boilerplate-mern-2pt9.onrender.com/)
+
+[Serverless version on Vercel](https://boilerplate-react-serverless-vite.vercel.app/)
+
 A React and TypeScript single-page app built with Vite, backed by one shared
 Express application. The same API runs as Vercel Functions or as a traditional
 Node.js process on services such as Render.
